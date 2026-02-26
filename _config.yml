@@ -1,4 +1,6 @@
 title: Miles Guerin
-description: Personal website
 theme: jekyll-theme-minimal
+logo: /files/headshot.png
 show_downloads: false
+github:
+  is_user_page: false
