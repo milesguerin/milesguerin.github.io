@@ -1,9 +1,9 @@
 ## About
 I am a Research Analyst at the Federal Reserve Bank of New York. My research interests are in networks, labor, machine learning, and macroeconomics.
 
-I receieved my B.S. in mathematics and quantitative economics from Tufts University.
+I received my B.S. in mathematics and quantitative economics from Tufts University.
 
-All views my own.
+All views are my own.
 
 ## Research
 
@@ -13,6 +13,6 @@ All views my own.
 
 ## Other Writing
 
-- [The Anatomy of Labor Demand Pre- and Post-COVID](https://libertystreeteconomics.newyorkfed.org/2024/08/the-anatomy-of-labor-demand-pre-and-post-covid/)
-  Richard Audoly, Miles Guerin, Giorgio Topa, Roshie Xing  
-  *Liberty Street Economics, August 2024*
+- [The Anatomy of Labor Demand Pre- and Post-COVID](https://libertystreeteconomics.newyorkfed.org/2024/08/the-anatomy-of-labor-demand-pre-and-post-covid/)  
+Richard Audoly, Miles Guerin, Giorgio Topa, Roshie Xing  
+*Liberty Street Economics, August 2024*
