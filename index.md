@@ -1,7 +1,7 @@
 ## About
 I am a Research Analyst at the Federal Reserve Bank of New York. My research interests are in networks, labor, machine learning, and macroeconomics.
 
-I received my B.S. in mathematics and quantitative economics from Tufts University.
+I received my B.S. in mathematics and quantitative economics from Tufts University, where I was a UWC Davis Scholar.
 
 All views are my own.
 
