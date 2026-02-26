@@ -1,7 +1,6 @@
 # Miles Guerin
 
-Welcome to my site.
+Economics and quantitative analysis student.
 
-![Headshot](/assets/images/headshot.png)
-
-[Resume](/assets/files/resume.pdf)
+## Links
+- [Resume](/files/resume.pdf)
