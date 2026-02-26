@@ -1,5 +1,5 @@
 title: Miles Guerin
-description: "[Resume](/files/resume.pdf)<br>[LinkedIn](https://www.linkedin.com/in/milesguerin/)"
+description: '<a href="/files/resume.pdf">Resume</a><br><a href="https://www.linkedin.com/in/milesguerin/" target="_blank" rel="noopener">LinkedIn</a>'
 theme: jekyll-theme-minimal
 logo: /files/headshot.png
 show_downloads: false
