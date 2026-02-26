@@ -8,3 +8,18 @@ img.logo {
   width: 140px;
   height: auto;
 }
+
+header p {
+  border-top: 1px solid #e5e5e5;
+  margin-top: 16px;
+  padding-top: 14px;
+}
+
+header p a {
+  display: block;
+  margin-top: 10px;
+}
+
+header p a:first-child {
+  margin-top: 0;
+}
