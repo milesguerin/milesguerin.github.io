@@ -1,3 +1,7 @@
+---
+title: Miles Guerin
+---
+
 ## About
 I am a Research Analyst at the Federal Reserve Bank of New York. My research interests are in networks, labor, machine learning, and macroeconomics.
 
