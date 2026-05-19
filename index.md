@@ -22,7 +22,7 @@ All views are my own.
 ## Other Writing
 
 - [Do Job Postings Show Early Labor‑Market Effects of AI?](https://libertystreeteconomics.newyorkfed.org/2026/05/do-job-postings-show-early-labor-market-effects-of-ai/)  
-Richard Audoly, Miles Guerin, Giorgio Topa 
+Richard Audoly, Miles Guerin, Giorgio Topa  
 *Liberty Street Economics, May 2026*
 
 - [The Anatomy of Labor Demand Pre- and Post-COVID](https://libertystreeteconomics.newyorkfed.org/2024/08/the-anatomy-of-labor-demand-pre-and-post-covid/)  
