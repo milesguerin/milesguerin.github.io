@@ -23,11 +23,11 @@ All views are my own.
 
 - [Do Job Postings Show Early Labor‑Market Effects of AI?](https://libertystreeteconomics.newyorkfed.org/2026/05/do-job-postings-show-early-labor-market-effects-of-ai/)  
 Richard Audoly, Miles Guerin, Giorgio Topa  
-*Liberty Street Economics, May 2026*
-Coverage: [Yahoo](https://finance.yahoo.com/economy/article/executives-are-blaming-layoffs-on-ai-but-research-shows-ai-is-not-the-main-driver-of-us-labor-slowdown-114708955.html) [Semafor](https://www.semafor.com/article/05/14/2026/ai-is-coming-for-some-jobs) [AOL](https://www.aol.com/articles/goldman-sachs-good-news-u-110700000.html)
+*Liberty Street Economics, May 2026*  
+Coverage: [Yahoo](https://finance.yahoo.com/economy/article/executives-are-blaming-layoffs-on-ai-but-research-shows-ai-is-not-the-main-driver-of-us-labor-slowdown-114708955.html), [Semafor](https://www.semafor.com/article/05/14/2026/ai-is-coming-for-some-jobs), [AOL](https://www.aol.com/articles/goldman-sachs-good-news-u-110700000.html)
 
 
 - [The Anatomy of Labor Demand Pre- and Post-COVID](https://libertystreeteconomics.newyorkfed.org/2024/08/the-anatomy-of-labor-demand-pre-and-post-covid/)  
 Richard Audoly, Miles Guerin, Giorgio Topa, Roshie Xing  
-*Liberty Street Economics, August 2024*
-Coverage: [US Congress](https://www.congress.gov/crs-product/R48528) [Bloomberg](https://www.bloomberg.com/news/articles/2024-08-07/pandemic-shifted-us-jobs-out-of-big-cities-into-smaller-metros) [(x2)](https://www.bloomberg.com/news/newsletters/2024-08-08/world-economy-latest-us-labor-market-faces-the-end-of-job-hoarding)
+*Liberty Street Economics, August 2024*  
+Coverage: [US Congress](https://www.congress.gov/crs-product/R48528), [Bloomberg](https://www.bloomberg.com/news/articles/2024-08-07/pandemic-shifted-us-jobs-out-of-big-cities-into-smaller-metros) [(x2)](https://www.bloomberg.com/news/newsletters/2024-08-08/world-economy-latest-us-labor-market-faces-the-end-of-job-hoarding)
