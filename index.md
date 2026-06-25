@@ -24,7 +24,7 @@ All views are my own.
 - [The Post‑COVID Decline in the Labor Share](https://libertystreeteconomics.newyorkfed.org/2026/06/the-post-covid-decline-in-the-labor-share/)  
 Richard Audoly, Miles Guerin, Srinidhi Narayanan, Rachel Schuh  
 *Liberty Street Economics, June 2026*  
-
+Coverage: [Investopedia](https://www.investopedia.com/the-american-economy-is-growing-but-workers-are-getting-a-shrinking-slice-12006070)
 
 - [Do Job Postings Show Early Labor‑Market Effects of AI?](https://libertystreeteconomics.newyorkfed.org/2026/05/do-job-postings-show-early-labor-market-effects-of-ai/)  
 Richard Audoly, Miles Guerin, Giorgio Topa  
