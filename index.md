@@ -29,7 +29,7 @@ Coverage: [S&P Global](https://www.spglobal.com/market-intelligence/en/news-insi
 - [Do Job Postings Show Early Labor‑Market Effects of AI?](https://libertystreeteconomics.newyorkfed.org/2026/05/do-job-postings-show-early-labor-market-effects-of-ai/)  
 Richard Audoly, Miles Guerin, Giorgio Topa  
 *Liberty Street Economics, May 2026*  
-Coverage: [Yahoo! Finance](https://finance.yahoo.com/economy/article/executives-are-blaming-layoffs-on-ai-but-research-shows-ai-is-not-the-main-driver-of-us-labor-slowdown-114708955.html), [Semafor](https://www.semafor.com/article/05/15/2026/labor-market-resilient-to-ai-so-far), [AOL](https://www.aol.com/articles/goldman-sachs-good-news-u-110700000.html)
+Coverage: [CNBC](https://www.cnbc.com/2026/09/25/ai-jobs-recent-graduates-college-degrees.html), [Yahoo! Finance](https://finance.yahoo.com/economy/article/executives-are-blaming-layoffs-on-ai-but-research-shows-ai-is-not-the-main-driver-of-us-labor-slowdown-114708955.html), [Semafor](https://www.semafor.com/article/05/15/2026/labor-market-resilient-to-ai-so-far), [AOL](https://www.aol.com/articles/goldman-sachs-good-news-u-110700000.html)
 
 
 - [The Anatomy of Labor Demand Pre- and Post-COVID](https://libertystreeteconomics.newyorkfed.org/2024/08/the-anatomy-of-labor-demand-pre-and-post-covid/)  
