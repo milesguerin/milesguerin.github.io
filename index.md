@@ -21,6 +21,10 @@ All views are my own.
 
 ## Other Writing
 
+- [Can Workers Predict Job Finding and Job Loss?](https://libertystreeteconomics.newyorkfed.org/2026/11/can-workers-predict-job-finding-and-job-loss/)  
+Richard Audoly, Ivy Chen, Miles Guerin, Rachel Schuh  
+*Liberty Street Economics, November 2026*
+
 - [The Post‑COVID Decline in the Labor Share](https://libertystreeteconomics.newyorkfed.org/2026/06/the-post-covid-decline-in-the-labor-share/)  
 Richard Audoly, Miles Guerin, Srinidhi Narayanan, Rachel Schuh  
 *Liberty Street Economics, June 2026*  
